@@ -1,1 +1,1 @@
-# SnakeJS
+https://stepsoft.org/Snake.php
