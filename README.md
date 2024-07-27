@@ -1,1 +1,3 @@
-https://stepsoft.org/Snake.php
+Моя JS версия на змията, която правих преди около 6 години.
+
+Линк към игрта: https://stepsoft.org/Snake.php
